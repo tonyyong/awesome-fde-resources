@@ -11,7 +11,7 @@ Use these resources to understand how AI adoption succeeds or fails inside real 
 ## Failure and Risk Lessons
 
 - [Air Canada chatbot liability case summary](https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-february/bc-tribunal-confirms-companies-remain-liable-information-provided-ai-chatbot/) - Useful reminder that customer-facing AI needs ownership, accuracy controls, and accountability; companies remain responsible for AI-provided information.
-- [AI Incident Database: Air Canada chatbot report](https://incidentdatabase.ai/reports/3673/) - Incident-oriented record for studying AI failure modes and governance implications.
+- [McDonald's ends IBM drive-thru AI pilot](https://restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test) - Operational adoption failure case: noisy real-world environments, misorders, human fallback, and customer experience all matter.
 - [RAND: The Root Causes of Failure for Artificial Intelligence Projects and How They Can Succeed](https://www.rand.org/pubs/research_reports/RRA2680-1.html) - Broad failure analysis across AI projects; especially relevant for FDEs because miscommunication, weak problem framing, and data readiness often matter more than model choice.
 
 ## Case Study Libraries
