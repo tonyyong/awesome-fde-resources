@@ -1,6 +1,6 @@
-# Deployment, Rollout, and Maintainability
+# Deployment, Adoption, and Maintainability
 
-Use these resources to move from prototype to production-readiness.
+Use these resources to move from prototype to controlled pilot, then to a maintainable system owned by the customer or internal team.
 
 ## Production Readiness
 

@@ -1,6 +1,6 @@
-# Evaluation, Reliability, and Observability
+# Evaluation, Reliability, and Operations
 
-Use these resources to prove quality with evidence instead of demos and vibes.
+Use these resources to prove AI quality with evidence and operate the system after the demo.
 
 ## Evaluation
 

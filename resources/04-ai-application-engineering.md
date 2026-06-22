@@ -1,6 +1,12 @@
-# LLM App Engineering and Tool Use
+# AI Application Engineering
 
-Use these resources when the question is: how do we turn model behavior into reliable application behavior?
+Use these resources to build the application layer: APIs, validation, tool calls, structured outputs, and practical LLM app patterns.
+
+## APIs and Backend Foundations
+
+- [FastAPI tutorial](https://fastapi.tiangolo.com/tutorial/) - Fast path to a working backend API.
+- [FastAPI testing guide](https://fastapi.tiangolo.com/tutorial/testing/) - Basic test patterns for API behavior.
+- [Microsoft REST API guidelines](https://github.com/microsoft/api-guidelines) - Useful for integration-safe API design.
 
 ## Structured Output and Tool Use
 

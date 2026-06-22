@@ -1,11 +1,6 @@
-# FDE Role, Use Cases, and Customer Discovery
+# Use-Case Selection and Customer Discovery
 
-Use these resources to answer: where should AI be used, where should it not be used, and how do you prove impact?
-
-## Role Expectations
-
-- [Anthropic FDE posting](https://www.anthropic.com/careers/jobs/4985877008) - Role signal for applied AI deployment, customer work, and technical judgment.
-- [OpenAI FDE posting](https://openai.com/careers/forward-deployed-engineer-%28fde%29-sf-san-francisco/) - Role signal for customer-facing engineering and AI deployment.
+Use these resources to decide where AI should be used, where it should not be used, and how to turn ambiguous customer pain into measurable deployment goals.
 
 ## AI Use-Case Selection
 

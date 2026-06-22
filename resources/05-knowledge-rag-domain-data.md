@@ -1,4 +1,4 @@
-# RAG, Domain Knowledge, and GraphRAG
+# Knowledge, RAG, and Domain Data
 
 Use these resources for enterprise knowledge workflows: internal documents, permissions, citations, freshness, and retrieval quality.
 

@@ -9,7 +9,7 @@ Good contributions include:
 - High-signal resources for a specific FDE task.
 - Better categorization of existing links.
 - Short explanations of why a resource matters.
-- Playbooks, templates, or examples that help learners produce artifacts.
+- Examples that help learners understand how a resource supports FDE work.
 
 ## Resource Acceptance Criteria
 
@@ -37,8 +37,6 @@ Use this format:
 ```md
 - [Resource title](https://example.com) - One sentence explaining why this helps an FDE task.
 ```
-
-For playbooks, templates, or longer written additions, state whether the contribution is original or adapted from another source. If adapted, include the source and make sure the license permits reuse.
 
 ## Editorial Principles
 
