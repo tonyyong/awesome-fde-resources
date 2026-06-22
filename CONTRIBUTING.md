@@ -38,6 +38,8 @@ Use this format:
 - [Resource title](https://example.com) - One sentence explaining why this helps an FDE task.
 ```
 
+For playbooks, templates, or longer written additions, state whether the contribution is original or adapted from another source. If adapted, include the source and make sure the license permits reuse.
+
 ## Editorial Principles
 
 - Prefer resources that help someone build, evaluate, deploy, or explain a system.

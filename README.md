@@ -1,7 +1,5 @@
 # Awesome FDE Resources
 
-> 如果我想成为一个 FDE，那么最重要的资源是什么？
-
 A curated resource map for people learning Forward Deployed Engineering: customer discovery, AI use-case judgment, AI architecture, LLM application engineering, RAG, evals, security, production rollout, and executive communication.
 
 ## Why This Repo Exists
@@ -16,16 +14,14 @@ The goal is resource sharing, not course completion. Every link should help a le
 
 ## How To Use This
 
-Start with the resource categories, then pick the path that matches your available time.
+Start with the category that matches the FDE skill you want to improve.
 
-- **20-hour starter path:** use the shortest path in [`resources/00-start-here.md`](resources/00-start-here.md).
 - **Interview prep:** focus on customer discovery, architecture, evals, security, and rollout.
 - **Portfolio building:** use the playbooks and templates to turn resources into artifacts.
 - **Contribution:** add resources only when they clearly help an FDE task.
 
 ## Resource Categories
 
-- [Start Here](resources/00-start-here.md)
 - [FDE Role, Use Cases, and Customer Discovery](resources/01-role-use-cases-customer-discovery.md)
 - [Engineering Foundations and APIs](resources/02-engineering-foundations.md)
 - [AI Architecture and Agents](resources/03-ai-architecture-agents.md)
@@ -38,6 +34,8 @@ Start with the resource categories, then pick the path that matches your availab
 
 ## Playbooks
 
+These playbooks are original maintainer drafts for this repo. They are not copied from external sources. They translate the resource categories into practical FDE artifacts.
+
 - [Use-Case Scoring Playbook](playbooks/use-case-scoring.md)
 - [AI Architecture Review Playbook](playbooks/architecture-review.md)
 - [Evaluation Report Playbook](playbooks/evaluation-report.md)
@@ -45,10 +43,18 @@ Start with the resource categories, then pick the path that matches your availab
 
 ## Templates
 
+These templates are original maintainer drafts for this repo. They are meant as lightweight starting points, not canonical industry standards.
+
 - [Use-Case Scoring Matrix](templates/use-case-scoring-matrix.md)
 - [Architecture Decision Record](templates/architecture-decision-record.md)
 - [Evaluation Report](templates/evaluation-report.md)
 - [Demo Narrative](templates/demo-narrative.md)
+
+## TODO
+
+- Add a concrete learning path, possibly including a 20-hour starter path, once the recommended sequence and exercises are more fully specified.
+- Add more examples of real FDE-style artifacts.
+- Add more community-vetted resources beyond the initial FDE Coach source list.
 
 ## What Makes A Resource Worth Including?
 
@@ -74,4 +80,4 @@ Contributions are welcome. Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) befo
 
 ## License
 
-This project is licensed under [CC BY 4.0](LICENSE).
+The original writing, playbooks, and templates in this repo are licensed under [CC BY 4.0](LICENSE). Linked resources keep their own licenses and terms. CC BY 4.0 was chosen because this is primarily educational writing and resource curation, not software code.
