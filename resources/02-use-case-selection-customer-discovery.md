@@ -11,5 +11,7 @@ Use these resources to decide where AI should be used, where it should not be us
 ## Customer Discovery and Change
 
 - [YC Startup School: How to Talk to Users](https://www.youtube.com/watch?v=z1iF1c8w5Lg) - Useful for practical customer discovery habits.
+- [Google People + AI Guidebook](https://pair.withgoogle.com/guidebook/) - Practical guidance for designing human-centered AI products and avoiding adoption mistakes.
+- [RAND: The Root Causes of Failure for Artificial Intelligence Projects and How They Can Succeed](https://www.rand.org/pubs/research_reports/RRA2680-1.html) - Useful corrective to AI hype; focuses on problem clarity, domain context, data readiness, and business-technical alignment.
 - [Atlassian project poster guide](https://www.atlassian.com/team-playbook/plays/project-poster) - Good structure for scope, assumptions, and stakeholder alignment.
 - [Prosci ADKAR model overview](https://www.prosci.com/methodology/adkar) - Helpful for adoption and change-management thinking.

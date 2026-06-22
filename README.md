@@ -29,6 +29,7 @@ Start with the category that matches the FDE skill you want to improve.
 - [Evaluation, Reliability, and Operations](resources/06-evaluation-reliability-operations.md)
 - [Security, Privacy, and Governance](resources/07-security-governance.md)
 - [Deployment, Adoption, and Maintainability](resources/08-deployment-adoption-maintainability.md)
+- [Industry Adoption Stories and Lessons](resources/09-industry-adoption-stories.md)
 
 ## TODO
 

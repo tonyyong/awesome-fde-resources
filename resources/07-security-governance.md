@@ -9,5 +9,7 @@ Use these resources when a prototype needs to survive enterprise security, legal
 
 ## Responsible AI and Enterprise Risk
 
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) - Strong baseline for discussing trustworthy AI, governance, measurement, and risk management with enterprise stakeholders.
+- [NIST AI RMF Playbook](https://airc.nist.gov/airmf-resources/playbook/) - Practical companion to the AI RMF for mapping, measuring, managing, and governing AI risks.
 - [Microsoft Responsible AI resources](https://www.microsoft.com/en-us/ai/responsible-ai-resources) - Responsible AI principles and governance resources.
 - [AWS secure enterprise RAG architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture-generative-ai/gen-ai-agents.html) - Enterprise data access, security, and governance architecture.

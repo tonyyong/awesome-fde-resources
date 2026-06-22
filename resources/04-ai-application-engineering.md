@@ -16,5 +16,7 @@ Use these resources to build the application layer: APIs, validation, tool calls
 
 ## Examples and App Patterns
 
+- [Chip Huyen: AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) - Broad, serious treatment of building applications with foundation models; useful as a longer-form reference.
+- [Anthropic: Writing effective tools for AI agents](https://www.anthropic.com/engineering/writing-tools-for-agents) - Practical engineering guidance for tool design in non-deterministic agent systems.
 - [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) - Broad GenAI app foundation.
 - [Awesome LLM apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Example applications and implementation references.
