@@ -7,6 +7,7 @@ Use these resources to decide where AI should be used, where it should not be us
 - [Google Cloud: evaluate and define a generative AI use case](https://docs.cloud.google.com/docs/ai-ml/generative-ai/evaluate-define-generative-ai-use-case) - A practical starting point for scoping measurable AI opportunities.
 - [Microsoft: evaluate and prioritize an AI use case](https://learn.microsoft.com/en-us/microsoft-cloud/dev/copilot/isv/business-envisioning) - Useful for value, feasibility, and business envisioning.
 - [IBM: measuring AI outcomes stage-gating framework](https://www.ibm.com/think/insights/measuring-ai-outcomes-7-step-stage-gating-framework) - Helps convert AI enthusiasm into measurable outcomes and stage gates.
+- [Stanford Digital Economy Lab: The Enterprise AI Playbook](https://digitaleconomy.stanford.edu/publication/enterprise-ai-playbook/) - Lessons from 51 successful enterprise AI deployments; useful for understanding organizational readiness, process redesign, and what separates pilots from measurable ROI.
 
 ## Customer Discovery and Change
 
